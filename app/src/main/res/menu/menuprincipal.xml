@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aprender"
+        android:title="Aprender" />
+    <item
+        android:id="@+id/ingresar"
+        android:title="Ingresar" />
+    <item
+        android:id="@+id/preguntar"
+        android:title="Preguntas" />
+    <item
+        android:id="@+id/dialogo"
+        android:title="Dialogo" />
+</menu>
